@@ -1,0 +1,34 @@
+body{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    color: chartreuse;
+    padding: 4px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2{
+    color: chartreuse;
+    padding: 4px 0;
+}
+.ukuranGambar{
+    width: 100px;
+    height: 100px;
+}
+.inspirasi{
+    text-align: center;
+}
+.lineAtas{
+    text-align: center;
+}
+.tableLineAtas{
+    margin: 10px;
+}
+.ukuranGambarBassDrum{
+    width: 250px;
+    height: 200px;
+}
+#specificity:hover{
+    background-color: crimson;
+}
